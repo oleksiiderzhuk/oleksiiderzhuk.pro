@@ -1,0 +1,123 @@
+body {
+	font-family: arial;
+	background-image: url("../back.jpg");
+	-moz-background-size: 100%; 
+	-webkit-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%; 
+
+}
+
+
+TH {
+	background: '#006400'; /* Цвет фона заголовка */
+	color: black; /* Цвет текста */
+	font-size: 10pt;
+}
+TD, TH {
+	padding: 1 3px; /* Поля вокруг текста */
+	text-align: center; /* Выравнивание по центру */
+	vertical-align: middle;
+	height: 20px;
+	overflow: hidden;
+}
+TD.le {
+	padding: 0px;
+	text-align: left; /* Выравнивание по левому краю */
+
+}
+
+
+
+.hidden {
+	visibility: hidden;
+}
+
+
+.user {
+	width: 300px; /* Ширина поля с учетом padding */
+	height: 50px; /* Высота */
+	background-color: lightgrey ;<!--#dad7c5 url(images/input.png) no-repeat -->/* Фон */
+	padding: 0 10px; /* Поля */
+	border: none; /* Убираем рамку */
+	font-size: 14pt; /* Размер текста */
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.username {
+
+	height: 30px; /* Высота */
+	background-color: lightgrey ;<!--#dad7c5 url(images/input.png) no-repeat -->/* Фон */
+	padding: 0 10px; /* Поля */
+	border: none; /* Убираем рамку */
+	font-size: 10pt; /* Размер текста */
+	text-align: center;
+	vertical-align: bottom;
+}
+.usernamewidth {
+	width: 500px;
+	height: 30px; /* Высота */
+	background-color: lightgrey ;<!--#dad7c5 url(images/input.png) no-repeat -->/* Фон */
+	padding: 0 10px; /* Поля */
+	border: none; /* Убираем рамку */
+	font-size: 10pt; /* Размер текста */
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.userdate {
+	width: 150px; /* Ширина поля с учетом padding */
+	height: 30px; /* Высота */
+	background-color: lightgrey ;<!--#dad7c5 url(images/input.png) no-repeat -->/* Фон */
+	padding: 0 10px; /* Поля */
+	border: none; /* Убираем рамку */
+	font-size: 10pt; /* Размер текста */
+	text-align: center;
+	vertical-align: middle;
+}
+
+.check {
+	width: 30px;
+	height: 30px;
+}
+
+select {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.knopka {
+	color: black; /* цвет текста */
+	text-decoration: bold; /* убирать подчёркивание у ссылок */
+	user-select: none; /* убирать выделение текста */
+	background: yellow; /* фон кнопки */
+	padding: 0.5em 2em; /* отступ от текста */
+	outline: none; /* убирать контур в Mozilla */
+	font-size: 14pt; 
+	font-weight: bold;
+} 
+.knopka:hover { background: #FFFFCC; } /* при наведении курсора мышки */
+.knopka:active { background: gray; } /* при нажатии */
+
+.fileUpload {
+	position: relative;
+	overflow: hidden;
+	margin: 10px;
+	font-weight: bold;
+
+}
+
+.fileUpload input.upload {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 10pt;
+	cursor: pointer;
+	opacity: 0;
+	filter: alpha(opacity=0);
+}
+.spoiler_body {display:none;}
+.spoiler_links {cursor:pointer;}

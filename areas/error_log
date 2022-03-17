@@ -1,0 +1,24 @@
+[12-Mar-2022 17:00:09 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jbkjmgql_root'@'localhost' (using password: YES) in /home/jbkjmgql/public_html/areas/sys/config.php on line 6
+[12-Mar-2022 17:00:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/jbkjmgql/public_html/areas/sys/config.php:9
+Stack trace:
+#0 /home/jbkjmgql/public_html/areas/2.php(5): areas_db_connect()
+#1 {main}
+  thrown in /home/jbkjmgql/public_html/areas/sys/config.php on line 9
+[12-Mar-2022 17:03:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'jbkjmgql_root'@'localhost' (using password: YES) in /home/jbkjmgql/public_html/areas/sys/config.php on line 6
+[12-Mar-2022 17:03:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/jbkjmgql/public_html/areas/sys/config.php:9
+Stack trace:
+#0 /home/jbkjmgql/public_html/areas/2.php(5): areas_db_connect()
+#1 {main}
+  thrown in /home/jbkjmgql/public_html/areas/sys/config.php on line 9
+[12-Mar-2022 18:05:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'jbkjmgql_root'@'localhost' (using password: YES) in /home/jbkjmgql/public_html/areas/sys/config.php on line 6
+[12-Mar-2022 18:05:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/jbkjmgql/public_html/areas/sys/config.php:9
+Stack trace:
+#0 /home/jbkjmgql/public_html/areas/2.php(5): areas_db_connect()
+#1 {main}
+  thrown in /home/jbkjmgql/public_html/areas/sys/config.php on line 9
+[12-Mar-2022 19:11:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'jbkjmgql_root'@'localhost' to database 'jbkjmgql_database' in /home/jbkjmgql/public_html/areas/sys/config.php on line 6
+[12-Mar-2022 19:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on bool in /home/jbkjmgql/public_html/areas/sys/config.php:9
+Stack trace:
+#0 /home/jbkjmgql/public_html/areas/2.php(5): areas_db_connect()
+#1 {main}
+  thrown in /home/jbkjmgql/public_html/areas/sys/config.php on line 9

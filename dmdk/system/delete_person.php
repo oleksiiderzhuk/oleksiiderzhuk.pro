@@ -1,0 +1,21 @@
+<?php
+session_start();
+$edit_name = $_SESSION['user'];
+include('../probirka_db_functions.php');
+
+$link = probirka_db_connect();
+$current_date = date('Y-m-d H:i:s');
+$now_id = $_POST['id'];
+
+$sql = "SELECT * FROM person where id = '$now_id'";
+$result = mysqli_query($link, $sql);
+foreach ($result as $value)	{
+if ($value['state']=='2') {
+$sql = "UPDATE person SET state = '4' WHERE id = '$now_id'";
+mysqli_query($link, $sql);
+}
+}
+
+header("Location: /");
+?>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Шар_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1000px" height="500px" viewBox="0 0 1000 500" enable-background="new 0 0 1000 500" xml:space="preserve">
+<defs/>
+  <style type="text/css">
+    .mod {
+      fill: gray;
+      opacity: 0.099;
+    }
+    .mod:hover {
+      opacity: 0.6;
+      fill: blue;
+      cursor: pointer;
+    }
+  </style>
+<image overflow="visible" width="1000" height="496" xlink:href="collage_smallresize.jpg"  transform="matrix(1 0 0 1 0.9995 2)">
+</image>
+
+<a href="../dmdk/add_fiz.php" target="_top"> 
+<polygon class="mod" points="47.533,87.224 278.89,87.224 278.89,20.398 11.595,20.398 11.595,247 47.533,247 "><title>Filling in the database with an individual entrepreneur</title></polygon>
+</a>
+
+<a href="dmdk_author.jpg" target="_top">
+<path class="mod" d="M122.147,353.372l21.846-32.962l-12.407-12.406H89.204l-12.765,13.335l23.56,32.015
+	c-34.667,5.306-61.221,35.255-61.221,71.406c0,39.896,32.343,72.24,72.24,72.24c39.898,0,72.241-32.345,72.241-72.24
+	C183.26,388.646,156.761,358.726,122.147,353.372z"><title>Copyright certificate</title></path>
+</a>
+
+<a href="../dmdk/add_jur.php" target="_top">
+<polygon class="mod" points="47.693,87.223 47.693,354.52 84.595,354.52 84.595,332.422 76.439,321.339 84.595,312.818 
+	84.595,172.581 281.858,172.581 281.858,87.223 "><title>Filling in the database with a legal entity</title></polygon>
+</a>
+
+<a href="https://drive.google.com/file/d/1BXVjnP5W6CFgJyQAmoJX-hcRmheIKKBW/view?usp=sharing" target="_top">
+<rect x="692.728" y="69.09" class="mod" width="308.272" height="193.636"><title>An extract from the information system to the xlsx file</title></rect>
+</a>
+
+<a href="../dmdk/info_menu.php?id=6523" target="_top">
+<rect x="631.361" y="262.21" class="mod" width="368.255" height="232.383"><title>Business card</title></rect>
+</a>
+
+<a href="../dmdk/index.php" target="_top"> 
+<polygon class="mod" points="286,2 286,172.759 312.144,172.759 312.144,497.723 631.818,497.723 631.818,262.728 
+	692.728,262.728 692.728,69.091 924,69.091 924,2 "><title>Home page of the information system</title></polygon>
+</a>
+
+<g>
+	<path class="mod" d="M84.717,332.588v24.875c4.861-1.901,9.975-3.297,15.282-4.109L84.717,332.588z"/>
+
+<a href="dmdk_author.jpg" target="_top">
+	<path class="mod" d="M84.717,172.759v139.932l4.487-4.688h42.383l12.407,12.406l-21.846,32.962
+		c34.614,5.354,61.112,35.274,61.112,71.388c0,39.896-32.343,72.24-72.241,72.24c-9.283,0-18.148-1.771-26.301-4.961v6.14h227.426
+		V172.759H84.717z"><title>Copyright certificate</title></path>
+</a>
+
+</g>
+</svg>

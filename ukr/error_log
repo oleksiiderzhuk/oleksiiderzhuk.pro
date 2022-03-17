@@ -1,0 +1,3 @@
+[24-Sep-2021 15:03:40 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/jbkjmgql/public_html/ukr/index.php on line 2
+[24-Sep-2021 15:03:40 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/jbkjmgql/public_html/ukr/index.php on line 2
+[24-Sep-2021 15:03:40 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/jbkjmgql/public_html/ukr/index.php on line 2

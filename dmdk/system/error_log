@@ -1,0 +1,27 @@
+[21-Aug-2021 04:51:19 UTC] PHP Warning:  session_start(): open(/opt/alt/php71/var/lib/php/session/sess_e6cec8bdfa4aca5d2ed4025269f0c865, O_RDWR) failed: No such file or directory (2) in /home/jbkjmgql/public_html/dmdk/system/next_adress_edit.php on line 2
+[21-Aug-2021 04:51:19 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php71/var/lib/php/session) in /home/jbkjmgql/public_html/dmdk/system/next_adress_edit.php on line 2
+[21-Aug-2021 04:51:19 UTC] PHP Notice:  Undefined index: user_id in /home/jbkjmgql/public_html/dmdk/system/next_adress_edit.php on line 3
+[21-Aug-2021 04:54:17 UTC] PHP Warning:  session_start(): open(/opt/alt/php71/var/lib/php/session/sess_e6cec8bdfa4aca5d2ed4025269f0c865, O_RDWR) failed: No such file or directory (2) in /home/jbkjmgql/public_html/dmdk/system/next_imen_add.php on line 2
+[21-Aug-2021 04:54:17 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php71/var/lib/php/session) in /home/jbkjmgql/public_html/dmdk/system/next_imen_add.php on line 2
+[21-Aug-2021 04:54:17 UTC] PHP Notice:  Undefined index: user_id in /home/jbkjmgql/public_html/dmdk/system/next_imen_add.php on line 5
+[21-Aug-2021 04:54:17 UTC] PHP Notice:  Undefined index: year in /home/jbkjmgql/public_html/dmdk/system/next_imen_add.php on line 8
+[21-Aug-2021 04:56:05 UTC] PHP Warning:  session_start(): open(/opt/alt/php71/var/lib/php/session/sess_e6cec8bdfa4aca5d2ed4025269f0c865, O_RDWR) failed: No such file or directory (2) in /home/jbkjmgql/public_html/dmdk/system/next_imen_add.php on line 2
+[21-Aug-2021 04:56:05 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php71/var/lib/php/session) in /home/jbkjmgql/public_html/dmdk/system/next_imen_add.php on line 2
+[21-Aug-2021 04:56:05 UTC] PHP Notice:  Undefined index: user_id in /home/jbkjmgql/public_html/dmdk/system/next_imen_add.php on line 5
+[21-Aug-2021 04:56:05 UTC] PHP Notice:  Undefined index: year in /home/jbkjmgql/public_html/dmdk/system/next_imen_add.php on line 8
+[25-Aug-2021 19:49:33 UTC] PHP Warning:  session_start(): open(/opt/alt/php71/var/lib/php/session/sess_e8cd9eb67751108ad4828a688cab8957, O_RDWR) failed: No such file or directory (2) in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 2
+[25-Aug-2021 19:49:33 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php71/var/lib/php/session) in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 2
+[25-Aug-2021 19:49:33 UTC] PHP Notice:  Undefined index: user in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 3
+[25-Aug-2021 19:49:34 UTC] PHP Warning:  session_start(): open(/opt/alt/php71/var/lib/php/session/sess_e8cd9eb67751108ad4828a688cab8957, O_RDWR) failed: No such file or directory (2) in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 2
+[25-Aug-2021 19:49:34 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php71/var/lib/php/session) in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 2
+[25-Aug-2021 19:49:34 UTC] PHP Notice:  Undefined index: user in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 3
+[30-Aug-2021 18:54:05 UTC] PHP Warning:  session_start(): open(/opt/alt/php71/var/lib/php/session/sess_7fba7043bfe8e28b3211317eec7692c9, O_RDWR) failed: No such file or directory (2) in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 2
+[30-Aug-2021 18:54:05 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php71/var/lib/php/session) in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 2
+[30-Aug-2021 18:54:05 UTC] PHP Notice:  Undefined index: user in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 3
+[30-Aug-2021 18:54:06 UTC] PHP Warning:  session_start(): open(/opt/alt/php71/var/lib/php/session/sess_7fba7043bfe8e28b3211317eec7692c9, O_RDWR) failed: No such file or directory (2) in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 2
+[30-Aug-2021 18:54:06 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php71/var/lib/php/session) in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 2
+[30-Aug-2021 18:54:06 UTC] PHP Notice:  Undefined index: user in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 3
+[04-Nov-2021 11:30:15 UTC] PHP Notice:  Undefined index: user in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 3
+[04-Nov-2021 11:30:26 UTC] PHP Notice:  Undefined index: user in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 3
+[12-Mar-2022 19:15:26 UTC] PHP Notice:  Undefined index: user in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 3
+[12-Mar-2022 19:15:27 UTC] PHP Notice:  Undefined index: user in /home/jbkjmgql/public_html/dmdk/system/change_state.php on line 3

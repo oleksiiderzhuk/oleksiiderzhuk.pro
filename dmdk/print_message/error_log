@@ -1,0 +1,7 @@
+[04-Aug-2021 06:08:22 UTC] PHP Warning:  session_start(): open(/opt/alt/php71/var/lib/php/session/sess_55974f52e8cd20746bf821cd2fbc3ecf, O_RDWR) failed: No such file or directory (2) in /home/jbkjmgql/public_html/dmdk/print_message/edit_message.php on line 2
+[04-Aug-2021 06:08:22 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php71/var/lib/php/session) in /home/jbkjmgql/public_html/dmdk/print_message/edit_message.php on line 2
+[04-Aug-2021 09:08:22 Europe/Kiev] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jbkjmgql/public_html/dmdk/print_message/edit_message.php on line 38
+[21-Aug-2021 04:52:08 UTC] PHP Warning:  session_start(): open(/opt/alt/php71/var/lib/php/session/sess_e6cec8bdfa4aca5d2ed4025269f0c865, O_RDWR) failed: No such file or directory (2) in /home/jbkjmgql/public_html/dmdk/print_message/imen_letter.php on line 2
+[21-Aug-2021 04:52:08 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php71/var/lib/php/session) in /home/jbkjmgql/public_html/dmdk/print_message/imen_letter.php on line 2
+[21-Aug-2021 07:52:08 Europe/Kiev] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jbkjmgql/public_html/dmdk/print_message/imen_letter.php on line 23
+[21-Aug-2021 07:52:08 Europe/Kiev] PHP Notice:  Undefined index: user in /home/jbkjmgql/public_html/dmdk/print_message/imen_letter.php on line 90

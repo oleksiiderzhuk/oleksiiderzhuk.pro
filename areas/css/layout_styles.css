@@ -1,0 +1,25 @@
+.poster{
+	z-index:9000;
+}
+.poster:hover {
+	background-image: url(../img/trans.png);
+	cursor: pointer;
+}
+
+.descr{
+    display:none;
+ 	padding:5px;
+    background: white;
+	
+	margin-left: 5px;
+	margin-top: 5px;	
+    
+    -moz-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    -webkit-box-shadow:0 5px 5px rgba(0,0,0,0.3);
+    box-shadow:0 5px 5px rgba(0,0,0,0.3);
+	z-index:9000;
+}
+.poster:hover .descr{
+    display:block;
+    z-index:9999;
+}

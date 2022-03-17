@@ -1,0 +1,6 @@
+{
+    "require": {
+        "zendframework/zend-escaper": "^2.6",
+        "phpoffice/phpword": "^0.17.0"
+    }
+}
