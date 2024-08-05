@@ -2,8 +2,8 @@
 
 {
 
-// $link = mysqli_connect("localhost", "root", "password", "local_database");
- $link = mysqli_connect("localhost", "jbkjmgql_root", "Password4root", "jbkjmgql_database");
+$link = mysqli_connect("localhost", "root", "password", "local_database");
+//  $link = mysqli_connect("localhost", "jbkjmgql_root", "Password4root", "jbkjmgql_database");
 
 
     $link->set_charset("utf8");

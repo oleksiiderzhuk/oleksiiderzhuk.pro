@@ -26,22 +26,39 @@ include('header.php') ;
 
 <div>&nbsp;</div>
 
+<div class="row" style="text-align: center; margin-top: 30px">
+    <div class="col-md-3 col-xs-12" style="text-align: center">
+        <h5>2024</h5>
+        <h5>HTML, CSS, Javascript for Web
+            <br>
+            <a href="https://coursera.org/share/ac535656c08dd59f2236f17d58734929" title="HTMLCSSJS">
+            <img src="img/hopkins.png" width=65%>
+            </a>
+    </div>
 
-<div style="text-align: center">
-    <h5>2020-2022 </h5>
-    <h5>Laravel development</h5>
-</div>
+    <div class="col-md-2 col-xs-12" style="text-align: center">
+        <h5>2023</h5>
+        <h5>SQL certification</h5>
+        <a href="https://www.credly.com/badges/b55e4883-ac63-4ea0-b5e0-83b5126a207d/public_url">
+            <img src="img/db_certified.png" width=50%>
+        </a>
+    </div>
 
-<div class="row" style="text-align: center">
-    <div class="col-md-12 col-xs-12" style="margin-top: 30px">
-        <h5> Blog project </h5>
-        <a href="blog/index.php"><img src="img/2022back.png" width=640px></a>
+    <div class="col-md-4 col-xs-12" style="text-align:center">
+        <h5>2022-2021</h5>
+        <h5> Laravel development - Blog project </h5>
+        <a href="laravel.php" style="text-align:center"> <img src="img/laravelpreview.png" width=100%> </a>
+    </div>
+
+    <div class="col-md-3 col-xs-12" style="text-align: center">
+        <h5>2020</h5>
+        <h5>Building Database Applications in PHP</h5>
+        <a href="https://coursera.org/share/a504fcac0a6989cbbc0264d44a842de3">
+            <img src="img/michigan.jpg" width=65%>
+        </a>
     </div>
 </div>
 
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 
 
