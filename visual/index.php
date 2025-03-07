@@ -7,7 +7,8 @@
 </head>
 <body>
 	<div class="col-md-6 col-xs-12" style="margin-left: -10px; margin-top: -10px">
-    	<img src="../img/visual.jpg" width="102%" >
+    	<img src="
+		visual.jpg" width="102%" >
     </div>
 </body>
 </html>

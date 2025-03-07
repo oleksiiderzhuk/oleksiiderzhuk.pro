@@ -1,0 +1,10 @@
+﻿html {
+	position: relative;
+	min-height: 100%;
+}
+.styled{
+	color:brown;
+	font-weight: italic;
+	font-family: 'Times New Roman', Times, italic; font-weight: bold;
+	font-size: 20px;
+}

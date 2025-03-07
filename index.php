@@ -11,33 +11,44 @@ include('header.php');
         fill: #DA4567;
     }
 </script>
+
 <div style=" text-align:right">
     <a href="/ukr.php">
         <img src="img/eng.jpg" width=75px title="Switch the language">
     </a>
 </div>
 
-
 <div class="row">
     <div class="col-sm-12 col-xs-12" style="text-align: center">
         <a href="CV.pdf">
-            <img src="img/cv_eng.png" width="220px">
+            <img src="img/cv_eng.png" width="220px" title="202412">
         </a>
         <h5>Oleksii Derzhuk </h5>
     </div>
 </div>
 
 <div class="row" style="text-align: center; margin-top: 30px">
-    <div class="col-md-3 col-xs-12" style="text-align: center">
-        <h5>2024</h5>
+<div class="col-md-3 col-xs-12" style="text-align: center">
+    <h5>
+        <a href="https://my.alpi.club/certificates/b6011cda-ddd2-4782-b341-4e0d1165b33b?language_id=3">    
+        2025</h5>
+        <h5>AI Tools</h5>
+        <img src="AlpiCertificate.png" alt="Alpi" width=30%>
+    </a>
+        <br>
+    </div>
+    <div class="col-md-2 col-xs-12" style="text-align: center">
+    <h5>
+        <a href="/ecoworld/">    
+        2024</a></h5>
         <h5>HTML, CSS, Javascript for Web
             <br>
             <a href="https://coursera.org/share/ac535656c08dd59f2236f17d58734929" title="HTMLCSSJS">
             <img src="img/hopkins.png" width=65%>
             </a>
     </div>
-
-    <div class="col-md-2 col-xs-12" style="text-align: center">
+    
+    <div class="col-md-3 col-xs-12" style="text-align: center">
         <h5>2023</h5>
         <h5>SQL certification</h5>
         <a href="https://www.credly.com/badges/b55e4883-ac63-4ea0-b5e0-83b5126a207d/public_url">
@@ -45,13 +56,13 @@ include('header.php');
         </a>
     </div>
 
-    <div class="col-md-4 col-xs-12" style="text-align:center">
+    <div class="col-md-2 col-xs-12" style="text-align:center">
         <h5>2022-2021</h5>
         <h5> Laravel development - Blog project </h5>
         <a href="laravel.php" style="text-align:center"> <img src="img/laravelpreview.png" width=100%> </a>
     </div>
 
-    <div class="col-md-3 col-xs-12" style="text-align: center">
+    <div class="col-md-2 col-xs-12" style="text-align: center">
         <h5>2020</h5>
         <h5>Building Database Applications in PHP</h5>
         <a href="https://coursera.org/share/a504fcac0a6989cbbc0264d44a842de3">

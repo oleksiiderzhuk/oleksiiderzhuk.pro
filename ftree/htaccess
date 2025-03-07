@@ -1,0 +1,7 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+
+
+php_value upload_max_filesize 15M
+php_value post_max_size 16M
+
