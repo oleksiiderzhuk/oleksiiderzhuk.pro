@@ -1,1 +1,0 @@
-<?php echo OsAddonsHelper::generate_missing_addon_link($missing_label); ?>

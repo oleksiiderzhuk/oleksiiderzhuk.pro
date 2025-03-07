@@ -1,1 +1,0 @@
-!function(a){"use strict";setTimeout(function(){a.ajax({type:"POST",url:avadaViewsCounterVars.ajaxUrl,data:{action:"avada_set_ajax_post_views",postId:avadaViewsCounterVars.postId},dataType:"json"})},1e3)}(jQuery);
